@@ -13,3 +13,4 @@ Numero di push obbligatori: 7/8.
 /*SOLUZIONE*/
 
     - creo il file index.php che conterà sia il paragrafo da censurare e sia div input in cui l'utente potrà scegliere quale parola censurare. Il file censor.php avrà invece di processare la        funzione   di censura:
+    - in index.php, creo, in una col sulla sinistra, un paragrafo con un testo fittizio che verrà poi censurato. A destra, in un altra col, inserisco una form con un campo input in cui l'utente potrà specificare quale parola censurare ;
