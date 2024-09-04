@@ -14,6 +14,11 @@ $new_paragraph = str_replace($word, "***", $paragraph);
     <title>Document</title>
 </head>
 <body>
-    
+    <p>
+    <?php echo $paragraph ?>
+    </p>
+    <p>
+        <?php echo $new_paragraph ?>
+    </p>
 </body>
 </html>
